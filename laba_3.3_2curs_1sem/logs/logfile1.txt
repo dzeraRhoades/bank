@@ -1,0 +1,1081 @@
+[08:00][INFORMATION]: opened
+[08:01][INFORMATION]: application 4 received
+[08:02][INFORMATION]: application 5 received
+[08:02][INFORMATION]: application 7 received
+[08:05][INFORMATION]: application 10 received
+[08:18][INFORMATION]: application received
+[08:25][INFORMATION]: application 24 received
+[08:25][INFORMATION]: application received
+[08:29][INFORMATION]: application received
+[08:30][INFORMATION]: application received
+[08:34][INFORMATION]: application received
+[08:34][INFORMATION]: application received
+[08:34][INFORMATION]: application 34 received
+[08:34][INFORMATION]: 		department is overloaded. Overload time: 140
+[08:34][INFORMATION]: application received
+[08:35][INFORMATION]: application received
+[08:36][INFORMATION]: application received
+[08:41][INFORMATION]: application received
+[08:41][INFORMATION]: application received
+[08:41][INFORMATION]: application received
+[08:41][INFORMATION]: application received
+[08:41][INFORMATION]: application received
+[08:41][INFORMATION]: application received
+[08:42][INFORMATION]: application received
+[08:43][INFORMATION]: application received
+[08:43][INFORMATION]: application received
+[08:43][INFORMATION]: application received
+[08:43][INFORMATION]: application received
+[08:48][INFORMATION]: application received
+[08:48][INFORMATION]: application received
+[08:48][INFORMATION]: application received
+[08:49][INFORMATION]: application received
+[08:53][INFORMATION]: worker 0 has come to work
+[08:56][INFORMATION]: worker 1 has come to work
+[09:00][INFORMATION]: worker 2 has come to work
+[09:03][INFORMATION]: worker 3 has come to work
+[09:06][INFORMATION]: worker 4 has come to work
+[09:09][INFORMATION]: worker 5 has come to work
+[09:13][INFORMATION]: worker 6 has come to work
+[09:16][INFORMATION]: worker 7 has come to work
+[09:19][INFORMATION]: worker 8 has come to work
+[09:22][INFORMATION]: worker 9 has come to work
+[09:22][INFORMATION]: application received
+[09:23][INFORMATION]: application received
+[09:26][INFORMATION]: worker 10 has come to work
+[09:29][INFORMATION]: worker 11 has come to work
+[09:32][INFORMATION]: worker 12 has come to work
+[09:33][INFORMATION]: application received
+[09:33][INFORMATION]: application received
+[09:33][INFORMATION]: application received
+[09:33][INFORMATION]: application received
+[09:35][INFORMATION]: worker 13 has come to work
+[09:38][INFORMATION]: application received
+[09:39][INFORMATION]: worker 14 has come to work
+[09:39][INFORMATION]: application received
+[09:40][INFORMATION]: application received
+[09:40][INFORMATION]: application received
+[09:41][INFORMATION]: application received
+[09:41][INFORMATION]: application received
+[09:42][INFORMATION]: worker 15 has come to work
+[09:44][INFORMATION]: application received
+[09:45][INFORMATION]: worker 16 has come to work
+[09:46][INFORMATION]: application received
+[09:46][INFORMATION]: application received
+[09:46][INFORMATION]: application received
+[09:48][INFORMATION]: worker 17 has come to work
+[09:48][INFORMATION]: application received
+[09:48][INFORMATION]: application received
+[09:52][INFORMATION]: worker 18 has come to work
+[09:55][INFORMATION]: worker 19 has come to work
+[09:57][INFORMATION]: application received
+[10:53][INFORMATION]: 		dep returned to normal work
+[10:54][INFORMATION]: application 163 received
+[10:54][INFORMATION]: worker 0 started app 115
+[10:54][INFORMATION]: worker 1 started app 121
+[10:54][INFORMATION]: worker 2 started app 3
+[10:54][INFORMATION]: worker 3 started app 45
+[10:54][INFORMATION]: worker 4 started app 22
+[10:54][INFORMATION]: worker 5 started app 49
+[10:54][INFORMATION]: worker 6 started app 17
+[10:54][INFORMATION]: worker 7 started app 52
+[10:54][INFORMATION]: worker 8 started app 46
+[10:54][INFORMATION]: worker 9 started app 163
+[10:54][INFORMATION]: worker 10 started app 11
+[10:54][INFORMATION]: worker 11 started app 51
+[10:54][INFORMATION]: worker 12 started app 92
+[10:54][INFORMATION]: worker 13 started app 107
+[10:54][INFORMATION]: worker 14 started app 16
+[10:54][INFORMATION]: worker 15 started app 39
+[10:54][INFORMATION]: worker 16 started app 2
+[10:54][INFORMATION]: worker 17 started app 15
+[10:54][INFORMATION]: worker 18 started app 24
+[10:54][INFORMATION]: worker 19 started app 30
+[10:54][INFORMATION]: worker 5 finished app 49
+[10:54][INFORMATION]: worker 8 finished app 46
+[10:54][INFORMATION]: worker 9 finished app 163
+[10:55][INFORMATION]: worker 5 started app 94
+[10:55][INFORMATION]: worker 8 started app 108
+[10:55][INFORMATION]: worker 9 started app 116
+[10:56][INFORMATION]: worker 3 finished app 45
+[10:56][INFORMATION]: worker 12 finished app 92
+[10:57][INFORMATION]: worker 3 started app 1
+[10:57][INFORMATION]: worker 12 started app 5
+[10:57][INFORMATION]: worker 9 finished app 116
+[10:58][INFORMATION]: worker 9 started app 7
+[10:58][INFORMATION]: worker 0 finished app 115
+[10:58][INFORMATION]: worker 13 finished app 107
+[10:58][INFORMATION]: worker 17 finished app 15
+[10:58][INFORMATION]: worker 19 finished app 30
+[10:59][INFORMATION]: worker 0 started app 79
+[10:59][INFORMATION]: worker 13 started app 96
+[10:59][INFORMATION]: worker 17 started app 37
+[10:59][INFORMATION]: worker 19 started app 104
+[10:59][INFORMATION]: worker 3 finished app 1
+[10:59][INFORMATION]: worker 8 finished app 108
+[10:59][INFORMATION]: worker 19 finished app 104
+[11:00][INFORMATION]: worker 3 started app 29
+[11:00][INFORMATION]: worker 8 started app 89
+[11:00][INFORMATION]: worker 19 started app 90
+[11:00][INFORMATION]: worker 11 finished app 51
+[11:01][INFORMATION]: worker 11 started app 10
+[11:01][INFORMATION]: worker 13 finished app 96
+[11:02][INFORMATION]: worker 13 started app 87
+[11:02][INFORMATION]: worker 7 finished app 52
+[11:02][INFORMATION]: worker 14 finished app 16
+[11:02][INFORMATION]: worker 18 finished app 24
+[11:03][INFORMATION]: worker 7 started app 97
+[11:03][INFORMATION]: worker 14 started app 98
+[11:03][INFORMATION]: worker 18 started app 13
+[11:03][INFORMATION]: worker 11 finished app 10
+[11:04][INFORMATION]: worker 1 finished app 121
+[11:04][INFORMATION]: worker 2 finished app 3
+[11:04][INFORMATION]: worker 4 finished app 22
+[11:04][INFORMATION]: worker 10 finished app 11
+[11:04][INFORMATION]: worker 15 finished app 39
+[11:05][INFORMATION]: worker 0 finished app 79
+[11:06][INFORMATION]: worker 6 finished app 17
+[11:06][INFORMATION]: worker 8 finished app 89
+[11:06][INFORMATION]: worker 16 finished app 2
+[11:06][INFORMATION]: worker 19 finished app 90
+[11:07][INFORMATION]: worker 5 finished app 94
+[11:07][INFORMATION]: worker 7 finished app 97
+[11:09][INFORMATION]: application 165 received
+[11:09][INFORMATION]: worker 11 started app 165
+[11:09][INFORMATION]: worker 11 finished app 165
+[11:09][INFORMATION]: worker 12 finished app 5
+[11:09][INFORMATION]: worker 17 finished app 37
+[11:10][INFORMATION]: worker 3 finished app 29
+[11:10][INFORMATION]: worker 9 finished app 7
+[11:10][INFORMATION]: worker 13 finished app 87
+[11:11][INFORMATION]: worker 14 finished app 98
+[11:13][INFORMATION]: application 167 received
+[11:13][INFORMATION]: worker 1 started app 167
+[11:13][INFORMATION]: worker 1 finished app 167
+[11:15][INFORMATION]: application 169 received
+[11:15][INFORMATION]: worker 2 started app 169
+[11:15][INFORMATION]: worker 2 finished app 169
+[11:15][INFORMATION]: worker 18 finished app 13
+[11:17][INFORMATION]: application 171 received
+[11:17][INFORMATION]: worker 4 started app 171
+[11:17][INFORMATION]: worker 4 finished app 171
+[11:19][INFORMATION]: application 173 received
+[11:19][INFORMATION]: worker 10 started app 173
+[11:19][INFORMATION]: worker 10 finished app 173
+[11:21][INFORMATION]: application 175 received
+[11:21][INFORMATION]: worker 15 started app 175
+[11:21][INFORMATION]: worker 15 finished app 175
+[11:23][INFORMATION]: application 177 received
+[11:23][INFORMATION]: worker 0 started app 177
+[11:23][INFORMATION]: worker 0 finished app 177
+[11:25][INFORMATION]: application 179 received
+[11:25][INFORMATION]: worker 6 started app 179
+[11:25][INFORMATION]: worker 6 finished app 179
+[11:27][INFORMATION]: application 181 received
+[11:27][INFORMATION]: worker 8 started app 181
+[11:27][INFORMATION]: worker 8 finished app 181
+[11:29][INFORMATION]: application 183 received
+[11:29][INFORMATION]: worker 16 started app 183
+[11:29][INFORMATION]: worker 16 finished app 183
+[11:31][INFORMATION]: application 185 received
+[11:31][INFORMATION]: worker 19 started app 185
+[11:31][INFORMATION]: worker 19 finished app 185
+[11:33][INFORMATION]: application 187 received
+[11:33][INFORMATION]: worker 5 started app 187
+[11:33][INFORMATION]: worker 5 finished app 187
+[11:35][INFORMATION]: application 189 received
+[11:35][INFORMATION]: worker 7 started app 189
+[11:35][INFORMATION]: worker 7 finished app 189
+[11:37][INFORMATION]: application 191 received
+[11:37][INFORMATION]: worker 11 started app 191
+[11:37][INFORMATION]: worker 11 finished app 191
+[11:39][INFORMATION]: application 193 received
+[11:39][INFORMATION]: worker 12 started app 193
+[11:39][INFORMATION]: worker 12 finished app 193
+[11:41][INFORMATION]: application 195 received
+[11:41][INFORMATION]: worker 17 started app 195
+[11:41][INFORMATION]: worker 17 finished app 195
+[11:43][INFORMATION]: application 197 received
+[11:43][INFORMATION]: worker 3 started app 197
+[11:43][INFORMATION]: worker 3 finished app 197
+[11:45][INFORMATION]: application 199 received
+[11:45][INFORMATION]: worker 9 started app 199
+[11:45][INFORMATION]: worker 9 finished app 199
+[11:47][INFORMATION]: application 201 received
+[11:47][INFORMATION]: worker 13 started app 201
+[11:47][INFORMATION]: worker 13 finished app 201
+[11:49][INFORMATION]: application 203 received
+[11:49][INFORMATION]: worker 14 started app 203
+[11:49][INFORMATION]: worker 14 finished app 203
+[11:51][INFORMATION]: application 205 received
+[11:51][INFORMATION]: worker 1 started app 205
+[11:51][INFORMATION]: worker 1 finished app 205
+[11:53][INFORMATION]: application 207 received
+[11:53][INFORMATION]: worker 2 started app 207
+[11:53][INFORMATION]: worker 2 finished app 207
+[11:55][INFORMATION]: application 209 received
+[11:55][INFORMATION]: worker 18 started app 209
+[11:55][INFORMATION]: worker 18 finished app 209
+[11:57][INFORMATION]: application 211 received
+[11:57][INFORMATION]: worker 4 started app 211
+[11:57][INFORMATION]: worker 4 finished app 211
+[11:59][INFORMATION]: application 213 received
+[11:59][INFORMATION]: worker 10 started app 213
+[11:59][INFORMATION]: worker 10 finished app 213
+[12:01][INFORMATION]: application 215 received
+[12:01][INFORMATION]: worker 15 started app 215
+[12:01][INFORMATION]: worker 15 finished app 215
+[12:03][INFORMATION]: application 217 received
+[12:03][INFORMATION]: worker 0 started app 217
+[12:03][INFORMATION]: worker 0 finished app 217
+[12:05][INFORMATION]: application 219 received
+[12:05][INFORMATION]: worker 6 started app 219
+[12:05][INFORMATION]: worker 6 finished app 219
+[12:07][INFORMATION]: application 221 received
+[12:07][INFORMATION]: worker 8 started app 221
+[12:07][INFORMATION]: worker 8 finished app 221
+[12:09][INFORMATION]: application 223 received
+[12:09][INFORMATION]: worker 16 started app 223
+[12:09][INFORMATION]: worker 16 finished app 223
+[12:11][INFORMATION]: application 225 received
+[12:11][INFORMATION]: worker 19 started app 225
+[12:11][INFORMATION]: worker 19 finished app 225
+[12:13][INFORMATION]: application 227 received
+[12:13][INFORMATION]: worker 5 started app 227
+[12:13][INFORMATION]: worker 5 finished app 227
+[12:15][INFORMATION]: application 229 received
+[12:15][INFORMATION]: worker 7 started app 229
+[12:15][INFORMATION]: worker 7 finished app 229
+[12:17][INFORMATION]: application 231 received
+[12:17][INFORMATION]: worker 11 started app 231
+[12:17][INFORMATION]: worker 11 finished app 231
+[12:19][INFORMATION]: application 233 received
+[12:19][INFORMATION]: worker 12 started app 233
+[12:19][INFORMATION]: worker 12 finished app 233
+[12:21][INFORMATION]: application 235 received
+[12:21][INFORMATION]: worker 17 started app 235
+[12:21][INFORMATION]: worker 17 finished app 235
+[12:23][INFORMATION]: application 237 received
+[12:23][INFORMATION]: worker 3 started app 237
+[12:23][INFORMATION]: worker 3 finished app 237
+[12:25][INFORMATION]: application 239 received
+[12:25][INFORMATION]: worker 9 started app 239
+[12:25][INFORMATION]: worker 9 finished app 239
+[12:27][INFORMATION]: application 241 received
+[12:27][INFORMATION]: worker 13 started app 241
+[12:27][INFORMATION]: worker 13 finished app 241
+[12:29][INFORMATION]: application 243 received
+[12:29][INFORMATION]: worker 14 started app 243
+[12:29][INFORMATION]: worker 14 finished app 243
+[12:31][INFORMATION]: application 245 received
+[12:31][INFORMATION]: worker 1 started app 245
+[12:31][INFORMATION]: worker 1 finished app 245
+[12:33][INFORMATION]: application 247 received
+[12:33][INFORMATION]: worker 2 started app 247
+[12:33][INFORMATION]: worker 2 finished app 247
+[12:35][INFORMATION]: application 249 received
+[12:35][INFORMATION]: worker 18 started app 249
+[12:35][INFORMATION]: worker 18 finished app 249
+[12:37][INFORMATION]: application 251 received
+[12:37][INFORMATION]: worker 4 started app 251
+[12:37][INFORMATION]: worker 4 finished app 251
+[12:39][INFORMATION]: application 253 received
+[12:39][INFORMATION]: worker 10 started app 253
+[12:39][INFORMATION]: worker 10 finished app 253
+[12:41][INFORMATION]: application 255 received
+[12:41][INFORMATION]: worker 15 started app 255
+[12:41][INFORMATION]: worker 15 finished app 255
+[12:43][INFORMATION]: application 257 received
+[12:43][INFORMATION]: worker 0 started app 257
+[12:43][INFORMATION]: worker 0 finished app 257
+[12:45][INFORMATION]: application 259 received
+[12:45][INFORMATION]: worker 6 started app 259
+[12:45][INFORMATION]: worker 6 finished app 259
+[12:47][INFORMATION]: application 261 received
+[12:47][INFORMATION]: worker 8 started app 261
+[12:47][INFORMATION]: worker 8 finished app 261
+[12:49][INFORMATION]: application 263 received
+[12:49][INFORMATION]: worker 16 started app 263
+[12:49][INFORMATION]: worker 16 finished app 263
+[12:51][INFORMATION]: application 265 received
+[12:51][INFORMATION]: worker 19 started app 265
+[12:51][INFORMATION]: worker 19 finished app 265
+[12:53][INFORMATION]: application 267 received
+[12:53][INFORMATION]: worker 5 started app 267
+[12:53][INFORMATION]: worker 5 finished app 267
+[12:55][INFORMATION]: application 269 received
+[12:55][INFORMATION]: worker 7 started app 269
+[12:55][INFORMATION]: worker 7 finished app 269
+[12:57][INFORMATION]: application 271 received
+[12:57][INFORMATION]: worker 11 started app 271
+[12:57][INFORMATION]: worker 11 finished app 271
+[12:59][INFORMATION]: application 273 received
+[12:59][INFORMATION]: worker 12 started app 273
+[12:59][INFORMATION]: worker 12 finished app 273
+[13:01][INFORMATION]: application 275 received
+[13:01][INFORMATION]: worker 17 started app 275
+[13:01][INFORMATION]: worker 17 finished app 275
+[13:03][INFORMATION]: application 277 received
+[13:03][INFORMATION]: worker 3 started app 277
+[13:03][INFORMATION]: worker 3 finished app 277
+[13:05][INFORMATION]: application 279 received
+[13:05][INFORMATION]: worker 9 started app 279
+[13:05][INFORMATION]: worker 9 finished app 279
+[13:07][INFORMATION]: application 281 received
+[13:07][INFORMATION]: worker 13 started app 281
+[13:07][INFORMATION]: worker 13 finished app 281
+[13:09][INFORMATION]: application 283 received
+[13:09][INFORMATION]: worker 14 started app 283
+[13:09][INFORMATION]: worker 14 finished app 283
+[13:11][INFORMATION]: application 285 received
+[13:11][INFORMATION]: worker 1 started app 285
+[13:11][INFORMATION]: worker 1 finished app 285
+[13:13][INFORMATION]: application 287 received
+[13:13][INFORMATION]: worker 2 started app 287
+[13:13][INFORMATION]: worker 2 finished app 287
+[13:15][INFORMATION]: application 289 received
+[13:15][INFORMATION]: worker 18 started app 289
+[13:15][INFORMATION]: worker 18 finished app 289
+[13:17][INFORMATION]: application 291 received
+[13:17][INFORMATION]: worker 4 started app 291
+[13:17][INFORMATION]: worker 4 finished app 291
+[13:19][INFORMATION]: application 293 received
+[13:19][INFORMATION]: worker 10 started app 293
+[13:19][INFORMATION]: worker 10 finished app 293
+[13:21][INFORMATION]: application 295 received
+[13:21][INFORMATION]: worker 15 started app 295
+[13:21][INFORMATION]: worker 15 finished app 295
+[13:23][INFORMATION]: application 297 received
+[13:23][INFORMATION]: worker 0 started app 297
+[13:23][INFORMATION]: worker 0 finished app 297
+[13:25][INFORMATION]: application 299 received
+[13:25][INFORMATION]: worker 6 started app 299
+[13:25][INFORMATION]: worker 6 finished app 299
+[13:27][INFORMATION]: application 301 received
+[13:27][INFORMATION]: worker 8 started app 301
+[13:27][INFORMATION]: worker 8 finished app 301
+[13:29][INFORMATION]: application 303 received
+[13:29][INFORMATION]: worker 16 started app 303
+[13:29][INFORMATION]: worker 16 finished app 303
+[13:31][INFORMATION]: application 305 received
+[13:31][INFORMATION]: worker 19 started app 305
+[13:31][INFORMATION]: worker 19 finished app 305
+[13:33][INFORMATION]: application 307 received
+[13:33][INFORMATION]: worker 5 started app 307
+[13:33][INFORMATION]: worker 5 finished app 307
+[13:35][INFORMATION]: application 309 received
+[13:35][INFORMATION]: worker 7 started app 309
+[13:35][INFORMATION]: worker 7 finished app 309
+[13:37][INFORMATION]: application 311 received
+[13:37][INFORMATION]: worker 11 started app 311
+[13:37][INFORMATION]: worker 11 finished app 311
+[13:39][INFORMATION]: application 313 received
+[13:39][INFORMATION]: worker 12 started app 313
+[13:39][INFORMATION]: worker 12 finished app 313
+[13:41][INFORMATION]: application 315 received
+[13:41][INFORMATION]: worker 17 started app 315
+[13:41][INFORMATION]: worker 17 finished app 315
+[13:43][INFORMATION]: application 317 received
+[13:43][INFORMATION]: worker 3 started app 317
+[13:43][INFORMATION]: worker 3 finished app 317
+[13:45][INFORMATION]: application 319 received
+[13:45][INFORMATION]: worker 9 started app 319
+[13:45][INFORMATION]: worker 9 finished app 319
+[13:47][INFORMATION]: application 321 received
+[13:47][INFORMATION]: worker 13 started app 321
+[13:47][INFORMATION]: worker 13 finished app 321
+[13:49][INFORMATION]: application 323 received
+[13:49][INFORMATION]: worker 14 started app 323
+[13:49][INFORMATION]: worker 14 finished app 323
+[13:51][INFORMATION]: application 325 received
+[13:51][INFORMATION]: worker 1 started app 325
+[13:51][INFORMATION]: worker 1 finished app 325
+[13:53][INFORMATION]: application 327 received
+[13:53][INFORMATION]: worker 2 started app 327
+[13:53][INFORMATION]: worker 2 finished app 327
+[13:55][INFORMATION]: application 329 received
+[13:55][INFORMATION]: worker 18 started app 329
+[13:55][INFORMATION]: worker 18 finished app 329
+[13:57][INFORMATION]: application 331 received
+[13:57][INFORMATION]: worker 4 started app 331
+[13:57][INFORMATION]: worker 4 finished app 331
+[13:59][INFORMATION]: application 333 received
+[13:59][INFORMATION]: worker 10 started app 333
+[13:59][INFORMATION]: worker 10 finished app 333
+[14:01][INFORMATION]: application 335 received
+[14:01][INFORMATION]: worker 15 started app 335
+[14:01][INFORMATION]: worker 15 finished app 335
+[14:03][INFORMATION]: application 337 received
+[14:03][INFORMATION]: worker 0 started app 337
+[14:03][INFORMATION]: worker 0 finished app 337
+[14:05][INFORMATION]: application 339 received
+[14:05][INFORMATION]: worker 6 started app 339
+[14:05][INFORMATION]: worker 6 finished app 339
+[14:07][INFORMATION]: application 341 received
+[14:07][INFORMATION]: worker 8 started app 341
+[14:07][INFORMATION]: worker 8 finished app 341
+[14:09][INFORMATION]: application 343 received
+[14:09][INFORMATION]: worker 16 started app 343
+[14:09][INFORMATION]: worker 16 finished app 343
+[14:11][INFORMATION]: application 345 received
+[14:11][INFORMATION]: worker 19 started app 345
+[14:11][INFORMATION]: worker 19 finished app 345
+[14:13][INFORMATION]: application 347 received
+[14:13][INFORMATION]: worker 5 started app 347
+[14:13][INFORMATION]: worker 5 finished app 347
+[14:15][INFORMATION]: application 349 received
+[14:15][INFORMATION]: worker 7 started app 349
+[14:15][INFORMATION]: worker 7 finished app 349
+[14:17][INFORMATION]: application 351 received
+[14:17][INFORMATION]: worker 11 started app 351
+[14:17][INFORMATION]: worker 11 finished app 351
+[14:19][INFORMATION]: application 353 received
+[14:19][INFORMATION]: worker 12 started app 353
+[14:19][INFORMATION]: worker 12 finished app 353
+[14:21][INFORMATION]: application 355 received
+[14:21][INFORMATION]: worker 17 started app 355
+[14:21][INFORMATION]: worker 17 finished app 355
+[14:23][INFORMATION]: application 357 received
+[14:23][INFORMATION]: worker 3 started app 357
+[14:23][INFORMATION]: worker 3 finished app 357
+[14:25][INFORMATION]: application 359 received
+[14:25][INFORMATION]: worker 9 started app 359
+[14:25][INFORMATION]: worker 9 finished app 359
+[14:27][INFORMATION]: application 361 received
+[14:27][INFORMATION]: worker 13 started app 361
+[14:27][INFORMATION]: worker 13 finished app 361
+[14:29][INFORMATION]: application 363 received
+[14:29][INFORMATION]: worker 14 started app 363
+[14:29][INFORMATION]: worker 14 finished app 363
+[14:31][INFORMATION]: application 365 received
+[14:31][INFORMATION]: worker 1 started app 365
+[14:31][INFORMATION]: worker 1 finished app 365
+[14:33][INFORMATION]: application 367 received
+[14:33][INFORMATION]: worker 2 started app 367
+[14:33][INFORMATION]: worker 2 finished app 367
+[14:35][INFORMATION]: application 369 received
+[14:35][INFORMATION]: worker 18 started app 369
+[14:35][INFORMATION]: worker 18 finished app 369
+[14:37][INFORMATION]: application 371 received
+[14:37][INFORMATION]: worker 4 started app 371
+[14:37][INFORMATION]: worker 4 finished app 371
+[14:39][INFORMATION]: application 373 received
+[14:39][INFORMATION]: worker 10 started app 373
+[14:39][INFORMATION]: worker 10 finished app 373
+[14:41][INFORMATION]: application 375 received
+[14:41][INFORMATION]: worker 15 started app 375
+[14:41][INFORMATION]: worker 15 finished app 375
+[14:43][INFORMATION]: application 377 received
+[14:43][INFORMATION]: worker 0 started app 377
+[14:43][INFORMATION]: worker 0 finished app 377
+[14:45][INFORMATION]: application 379 received
+[14:45][INFORMATION]: worker 6 started app 379
+[14:45][INFORMATION]: worker 6 finished app 379
+[14:47][INFORMATION]: application 381 received
+[14:47][INFORMATION]: worker 8 started app 381
+[14:47][INFORMATION]: worker 8 finished app 381
+[14:49][INFORMATION]: application 383 received
+[14:49][INFORMATION]: worker 16 started app 383
+[14:49][INFORMATION]: worker 16 finished app 383
+[14:51][INFORMATION]: application 385 received
+[14:51][INFORMATION]: worker 19 started app 385
+[14:51][INFORMATION]: worker 19 finished app 385
+[14:53][INFORMATION]: application 387 received
+[14:53][INFORMATION]: worker 5 started app 387
+[14:53][INFORMATION]: worker 5 finished app 387
+[14:55][INFORMATION]: application 389 received
+[14:55][INFORMATION]: worker 7 started app 389
+[14:55][INFORMATION]: worker 7 finished app 389
+[14:57][INFORMATION]: application 391 received
+[14:57][INFORMATION]: worker 11 started app 391
+[14:57][INFORMATION]: worker 11 finished app 391
+[14:59][INFORMATION]: application 393 received
+[14:59][INFORMATION]: worker 12 started app 393
+[14:59][INFORMATION]: worker 12 finished app 393
+[15:01][INFORMATION]: application 395 received
+[15:01][INFORMATION]: worker 17 started app 395
+[15:01][INFORMATION]: worker 17 finished app 395
+[15:03][INFORMATION]: application 397 received
+[15:03][INFORMATION]: worker 3 started app 397
+[15:03][INFORMATION]: worker 3 finished app 397
+[15:05][INFORMATION]: application 399 received
+[15:05][INFORMATION]: worker 9 started app 399
+[15:05][INFORMATION]: worker 9 finished app 399
+[15:07][INFORMATION]: application 401 received
+[15:07][INFORMATION]: worker 13 started app 401
+[15:07][INFORMATION]: worker 13 finished app 401
+[15:09][INFORMATION]: application 403 received
+[15:09][INFORMATION]: worker 14 started app 403
+[15:09][INFORMATION]: worker 14 finished app 403
+[15:11][INFORMATION]: application 405 received
+[15:11][INFORMATION]: worker 1 started app 405
+[15:11][INFORMATION]: worker 1 finished app 405
+[15:13][INFORMATION]: application 407 received
+[15:13][INFORMATION]: worker 2 started app 407
+[15:13][INFORMATION]: worker 2 finished app 407
+[15:15][INFORMATION]: application 409 received
+[15:15][INFORMATION]: worker 18 started app 409
+[15:15][INFORMATION]: worker 18 finished app 409
+[15:17][INFORMATION]: application 411 received
+[15:17][INFORMATION]: worker 4 started app 411
+[15:17][INFORMATION]: worker 4 finished app 411
+[15:19][INFORMATION]: application 413 received
+[15:19][INFORMATION]: worker 10 started app 413
+[15:19][INFORMATION]: worker 10 finished app 413
+[15:21][INFORMATION]: application 415 received
+[15:21][INFORMATION]: worker 15 started app 415
+[15:21][INFORMATION]: worker 15 finished app 415
+[15:23][INFORMATION]: application 417 received
+[15:23][INFORMATION]: worker 0 started app 417
+[15:23][INFORMATION]: worker 0 finished app 417
+[15:25][INFORMATION]: application 419 received
+[15:25][INFORMATION]: worker 6 started app 419
+[15:25][INFORMATION]: worker 6 finished app 419
+[15:27][INFORMATION]: application 421 received
+[15:27][INFORMATION]: worker 8 started app 421
+[15:27][INFORMATION]: worker 8 finished app 421
+[15:29][INFORMATION]: application 423 received
+[15:29][INFORMATION]: worker 16 started app 423
+[15:29][INFORMATION]: worker 16 finished app 423
+[15:31][INFORMATION]: application 425 received
+[15:31][INFORMATION]: worker 19 started app 425
+[15:31][INFORMATION]: worker 19 finished app 425
+[15:33][INFORMATION]: application 427 received
+[15:33][INFORMATION]: worker 5 started app 427
+[15:33][INFORMATION]: worker 5 finished app 427
+[15:35][INFORMATION]: application 429 received
+[15:35][INFORMATION]: worker 7 started app 429
+[15:35][INFORMATION]: worker 7 finished app 429
+[15:37][INFORMATION]: application 431 received
+[15:37][INFORMATION]: worker 11 started app 431
+[15:37][INFORMATION]: worker 11 finished app 431
+[15:39][INFORMATION]: application 433 received
+[15:39][INFORMATION]: worker 12 started app 433
+[15:39][INFORMATION]: worker 12 finished app 433
+[15:41][INFORMATION]: application 435 received
+[15:41][INFORMATION]: worker 17 started app 435
+[15:41][INFORMATION]: worker 17 finished app 435
+[15:43][INFORMATION]: application 437 received
+[15:43][INFORMATION]: worker 3 started app 437
+[15:43][INFORMATION]: worker 3 finished app 437
+[15:45][INFORMATION]: application 439 received
+[15:45][INFORMATION]: worker 9 started app 439
+[15:45][INFORMATION]: worker 9 finished app 439
+[15:47][INFORMATION]: application 441 received
+[15:47][INFORMATION]: worker 13 started app 441
+[15:47][INFORMATION]: worker 13 finished app 441
+[15:49][INFORMATION]: application 443 received
+[15:49][INFORMATION]: worker 14 started app 443
+[15:49][INFORMATION]: worker 14 finished app 443
+[15:51][INFORMATION]: application 445 received
+[15:51][INFORMATION]: worker 1 started app 445
+[15:51][INFORMATION]: worker 1 finished app 445
+[15:53][INFORMATION]: application 447 received
+[15:53][INFORMATION]: worker 2 started app 447
+[15:53][INFORMATION]: worker 2 finished app 447
+[15:55][INFORMATION]: application 449 received
+[15:55][INFORMATION]: worker 18 started app 449
+[15:55][INFORMATION]: worker 18 finished app 449
+[15:57][INFORMATION]: application 451 received
+[15:57][INFORMATION]: worker 4 started app 451
+[15:57][INFORMATION]: worker 4 finished app 451
+[15:59][INFORMATION]: application 453 received
+[15:59][INFORMATION]: worker 10 started app 453
+[15:59][INFORMATION]: worker 10 finished app 453
+[16:01][INFORMATION]: application 455 received
+[16:01][INFORMATION]: worker 15 started app 455
+[16:01][INFORMATION]: worker 15 finished app 455
+[16:03][INFORMATION]: application 457 received
+[16:03][INFORMATION]: worker 0 started app 457
+[16:03][INFORMATION]: worker 0 finished app 457
+[16:05][INFORMATION]: application 459 received
+[16:05][INFORMATION]: worker 6 started app 459
+[16:05][INFORMATION]: worker 6 finished app 459
+[16:07][INFORMATION]: application 461 received
+[16:07][INFORMATION]: worker 8 started app 461
+[16:07][INFORMATION]: worker 8 finished app 461
+[16:09][INFORMATION]: application 463 received
+[16:09][INFORMATION]: worker 16 started app 463
+[16:09][INFORMATION]: worker 16 finished app 463
+[16:11][INFORMATION]: application 465 received
+[16:11][INFORMATION]: worker 19 started app 465
+[16:11][INFORMATION]: worker 19 finished app 465
+[16:13][INFORMATION]: application 467 received
+[16:13][INFORMATION]: worker 5 started app 467
+[16:13][INFORMATION]: worker 5 finished app 467
+[16:15][INFORMATION]: application 469 received
+[16:15][INFORMATION]: worker 7 started app 469
+[16:15][INFORMATION]: worker 7 finished app 469
+[16:17][INFORMATION]: application 471 received
+[16:17][INFORMATION]: worker 11 started app 471
+[16:17][INFORMATION]: worker 11 finished app 471
+[16:19][INFORMATION]: application 473 received
+[16:19][INFORMATION]: worker 12 started app 473
+[16:19][INFORMATION]: worker 12 finished app 473
+[16:21][INFORMATION]: application 475 received
+[16:21][INFORMATION]: worker 17 started app 475
+[16:21][INFORMATION]: worker 17 finished app 475
+[16:23][INFORMATION]: application 477 received
+[16:23][INFORMATION]: worker 3 started app 477
+[16:23][INFORMATION]: worker 3 finished app 477
+[16:25][INFORMATION]: application 479 received
+[16:25][INFORMATION]: worker 9 started app 479
+[16:25][INFORMATION]: worker 9 finished app 479
+[16:27][INFORMATION]: application 481 received
+[16:27][INFORMATION]: worker 13 started app 481
+[16:27][INFORMATION]: worker 13 finished app 481
+[16:29][INFORMATION]: application 483 received
+[16:29][INFORMATION]: worker 14 started app 483
+[16:29][INFORMATION]: worker 14 finished app 483
+[16:31][INFORMATION]: application 485 received
+[16:31][INFORMATION]: worker 1 started app 485
+[16:31][INFORMATION]: worker 1 finished app 485
+[16:33][INFORMATION]: application 487 received
+[16:33][INFORMATION]: worker 2 started app 487
+[16:33][INFORMATION]: worker 2 finished app 487
+[16:35][INFORMATION]: application 489 received
+[16:35][INFORMATION]: worker 18 started app 489
+[16:35][INFORMATION]: worker 18 finished app 489
+[16:37][INFORMATION]: application 491 received
+[16:37][INFORMATION]: worker 4 started app 491
+[16:37][INFORMATION]: worker 4 finished app 491
+[16:39][INFORMATION]: application 493 received
+[16:39][INFORMATION]: worker 10 started app 493
+[16:39][INFORMATION]: worker 10 finished app 493
+[16:41][INFORMATION]: application 495 received
+[16:41][INFORMATION]: worker 15 started app 495
+[16:41][INFORMATION]: worker 15 finished app 495
+[16:43][INFORMATION]: application 497 received
+[16:43][INFORMATION]: worker 0 started app 497
+[16:43][INFORMATION]: worker 0 finished app 497
+[16:45][INFORMATION]: application 499 received
+[16:45][INFORMATION]: worker 6 started app 499
+[16:45][INFORMATION]: worker 6 finished app 499
+[16:47][INFORMATION]: application 501 received
+[16:47][INFORMATION]: worker 8 started app 501
+[16:47][INFORMATION]: worker 8 finished app 501
+[16:49][INFORMATION]: application 503 received
+[16:49][INFORMATION]: worker 16 started app 503
+[16:49][INFORMATION]: worker 16 finished app 503
+[16:51][INFORMATION]: application 505 received
+[16:51][INFORMATION]: worker 19 started app 505
+[16:51][INFORMATION]: worker 19 finished app 505
+[16:53][INFORMATION]: application 507 received
+[16:53][INFORMATION]: worker 5 started app 507
+[16:53][INFORMATION]: worker 5 finished app 507
+[16:55][INFORMATION]: application 509 received
+[16:55][INFORMATION]: worker 7 started app 509
+[16:55][INFORMATION]: worker 7 finished app 509
+[16:57][INFORMATION]: application 511 received
+[16:57][INFORMATION]: worker 11 started app 511
+[16:57][INFORMATION]: worker 11 finished app 511
+[16:59][INFORMATION]: application 513 received
+[16:59][INFORMATION]: worker 12 started app 513
+[16:59][INFORMATION]: worker 12 finished app 513
+[17:00][INFORMATION]: worker 10 has left work
+[17:01][INFORMATION]: application 515 received
+[17:01][INFORMATION]: worker 17 started app 515
+[17:01][INFORMATION]: worker 17 finished app 515
+[17:03][INFORMATION]: application 517 received
+[17:03][INFORMATION]: worker 3 started app 517
+[17:03][INFORMATION]: worker 3 finished app 517
+[17:05][INFORMATION]: application 519 received
+[17:05][INFORMATION]: worker 9 started app 519
+[17:05][INFORMATION]: worker 9 finished app 519
+[17:07][INFORMATION]: application 521 received
+[17:07][INFORMATION]: worker 13 started app 521
+[17:07][INFORMATION]: worker 13 finished app 521
+[17:09][INFORMATION]: worker 12 has left work
+[17:09][INFORMATION]: application 523 received
+[17:09][INFORMATION]: worker 14 started app 523
+[17:09][INFORMATION]: worker 14 finished app 523
+[17:11][INFORMATION]: application 525 received
+[17:11][INFORMATION]: worker 1 started app 525
+[17:11][INFORMATION]: worker 1 finished app 525
+[17:13][INFORMATION]: application 527 received
+[17:13][INFORMATION]: worker 2 started app 527
+[17:13][INFORMATION]: worker 2 finished app 527
+[17:15][INFORMATION]: application 529 received
+[17:15][INFORMATION]: worker 18 started app 529
+[17:15][INFORMATION]: worker 18 finished app 529
+[17:17][INFORMATION]: application 531 received
+[17:17][INFORMATION]: worker 4 started app 531
+[17:17][INFORMATION]: worker 4 finished app 531
+[17:19][INFORMATION]: application 533 received
+[17:19][INFORMATION]: worker 15 started app 533
+[17:19][INFORMATION]: worker 15 finished app 533
+[17:21][INFORMATION]: application 535 received
+[17:21][INFORMATION]: worker 0 started app 535
+[17:21][INFORMATION]: worker 0 finished app 535
+[17:23][INFORMATION]: application 537 received
+[17:23][INFORMATION]: worker 6 started app 537
+[17:23][INFORMATION]: worker 6 finished app 537
+[17:25][INFORMATION]: application 539 received
+[17:25][INFORMATION]: worker 8 started app 539
+[17:25][INFORMATION]: worker 8 finished app 539
+[17:27][INFORMATION]: application 541 received
+[17:27][INFORMATION]: worker 16 started app 541
+[17:27][INFORMATION]: worker 16 finished app 541
+[17:29][INFORMATION]: application 543 received
+[17:29][INFORMATION]: worker 19 started app 543
+[17:29][INFORMATION]: worker 19 finished app 543
+[17:31][INFORMATION]: application 545 received
+[17:31][INFORMATION]: worker 5 started app 545
+[17:31][INFORMATION]: worker 5 finished app 545
+[17:33][INFORMATION]: application 547 received
+[17:33][INFORMATION]: worker 7 started app 547
+[17:33][INFORMATION]: worker 7 finished app 547
+[17:34][INFORMATION]: worker 5 has left work
+[17:35][INFORMATION]: application 549 received
+[17:35][INFORMATION]: worker 11 started app 549
+[17:35][INFORMATION]: worker 11 finished app 549
+[17:37][INFORMATION]: application 551 received
+[17:37][INFORMATION]: worker 17 started app 551
+[17:37][INFORMATION]: worker 17 finished app 551
+[17:39][INFORMATION]: application 553 received
+[17:39][INFORMATION]: worker 3 started app 553
+[17:39][INFORMATION]: worker 3 finished app 553
+[17:41][INFORMATION]: application 555 received
+[17:41][INFORMATION]: worker 9 started app 555
+[17:41][INFORMATION]: worker 9 finished app 555
+[17:43][INFORMATION]: worker 7 has left work
+[17:43][INFORMATION]: application 557 received
+[17:43][INFORMATION]: worker 13 started app 557
+[17:43][INFORMATION]: worker 13 finished app 557
+[17:45][INFORMATION]: application 559 received
+[17:45][INFORMATION]: worker 14 started app 559
+[17:45][INFORMATION]: worker 14 finished app 559
+[17:47][INFORMATION]: application 561 received
+[17:47][INFORMATION]: worker 1 started app 561
+[17:47][INFORMATION]: worker 1 finished app 561
+[17:49][INFORMATION]: application 563 received
+[17:49][INFORMATION]: worker 2 started app 563
+[17:49][INFORMATION]: worker 2 finished app 563
+[17:51][INFORMATION]: application 565 received
+[17:51][INFORMATION]: worker 18 started app 565
+[17:51][INFORMATION]: worker 18 finished app 565
+[17:52][INFORMATION]: worker 9 has left work
+[17:52][INFORMATION]: worker 18 has left work
+[17:53][INFORMATION]: application 567 received
+[17:53][INFORMATION]: worker 4 started app 567
+[17:53][INFORMATION]: worker 4 finished app 567
+[17:55][INFORMATION]: application 569 received
+[17:55][INFORMATION]: worker 15 started app 569
+[17:55][INFORMATION]: worker 15 finished app 569
+[17:57][INFORMATION]: application 571 received
+[17:57][INFORMATION]: worker 0 started app 571
+[17:57][INFORMATION]: worker 0 finished app 571
+[17:59][INFORMATION]: application 573 received
+[17:59][INFORMATION]: worker 6 started app 573
+[17:59][INFORMATION]: worker 6 finished app 573
+[18:01][INFORMATION]: application 575 received
+[18:01][INFORMATION]: worker 8 started app 575
+[18:01][INFORMATION]: worker 8 finished app 575
+[18:03][INFORMATION]: application 577 received
+[18:03][INFORMATION]: worker 16 started app 577
+[18:03][INFORMATION]: worker 16 finished app 577
+[18:05][INFORMATION]: application 579 received
+[18:05][INFORMATION]: worker 19 started app 579
+[18:05][INFORMATION]: worker 19 finished app 579
+[18:07][INFORMATION]: application 581 received
+[18:07][INFORMATION]: worker 11 started app 581
+[18:07][INFORMATION]: worker 11 finished app 581
+[18:09][INFORMATION]: application 583 received
+[18:09][INFORMATION]: worker 17 started app 583
+[18:09][INFORMATION]: worker 17 finished app 583
+[18:11][INFORMATION]: application 585 received
+[18:11][INFORMATION]: worker 3 started app 585
+[18:11][INFORMATION]: worker 3 finished app 585
+[18:13][INFORMATION]: application 587 received
+[18:13][INFORMATION]: worker 13 started app 587
+[18:13][INFORMATION]: worker 13 finished app 587
+[18:15][INFORMATION]: application 589 received
+[18:15][INFORMATION]: worker 14 started app 589
+[18:15][INFORMATION]: worker 14 finished app 589
+[18:17][INFORMATION]: worker 2 has left work
+[18:17][INFORMATION]: application 591 received
+[18:17][INFORMATION]: worker 1 started app 591
+[18:17][INFORMATION]: worker 1 finished app 591
+[18:19][INFORMATION]: application 593 received
+[18:19][INFORMATION]: worker 4 started app 593
+[18:19][INFORMATION]: worker 4 finished app 593
+[18:21][INFORMATION]: application 595 received
+[18:21][INFORMATION]: worker 15 started app 595
+[18:21][INFORMATION]: worker 15 finished app 595
+[18:23][INFORMATION]: application 597 received
+[18:23][INFORMATION]: worker 0 started app 597
+[18:23][INFORMATION]: worker 0 finished app 597
+[18:25][INFORMATION]: application 599 received
+[18:25][INFORMATION]: worker 6 started app 599
+[18:25][INFORMATION]: worker 6 finished app 599
+[18:26][INFORMATION]: worker 4 has left work
+[18:27][INFORMATION]: application 601 received
+[18:27][INFORMATION]: worker 8 started app 601
+[18:27][INFORMATION]: worker 8 finished app 601
+[18:29][INFORMATION]: application 603 received
+[18:29][INFORMATION]: worker 16 started app 603
+[18:29][INFORMATION]: worker 16 finished app 603
+[18:31][INFORMATION]: application 605 received
+[18:31][INFORMATION]: worker 19 started app 605
+[18:31][INFORMATION]: worker 19 finished app 605
+[18:33][INFORMATION]: application 607 received
+[18:33][INFORMATION]: worker 11 started app 607
+[18:33][INFORMATION]: worker 11 finished app 607
+[18:34][INFORMATION]: worker 15 has left work
+[18:35][INFORMATION]: worker 6 has left work
+[18:35][INFORMATION]: application 609 received
+[18:35][INFORMATION]: worker 17 started app 609
+[18:35][INFORMATION]: worker 17 finished app 609
+[18:37][INFORMATION]: application 611 received
+[18:37][INFORMATION]: worker 3 started app 611
+[18:37][INFORMATION]: worker 3 finished app 611
+[18:39][INFORMATION]: application 613 received
+[18:39][INFORMATION]: worker 13 started app 613
+[18:39][INFORMATION]: worker 13 finished app 613
+[18:41][INFORMATION]: application 615 received
+[18:41][INFORMATION]: worker 14 started app 615
+[18:41][INFORMATION]: worker 14 finished app 615
+[18:43][INFORMATION]: worker 17 has left work
+[18:43][INFORMATION]: application 617 received
+[18:43][INFORMATION]: worker 1 started app 617
+[18:43][INFORMATION]: worker 1 finished app 617
+[18:45][INFORMATION]: application 619 received
+[18:45][INFORMATION]: worker 0 started app 619
+[18:45][INFORMATION]: worker 0 finished app 619
+[18:47][INFORMATION]: application 621 received
+[18:47][INFORMATION]: worker 8 started app 621
+[18:47][INFORMATION]: worker 8 finished app 621
+[18:49][INFORMATION]: application 623 received
+[18:49][INFORMATION]: worker 16 started app 623
+[18:49][INFORMATION]: worker 16 finished app 623
+[18:51][INFORMATION]: application 625 received
+[18:51][INFORMATION]: worker 19 started app 625
+[18:51][INFORMATION]: worker 19 finished app 625
+[18:52][INFORMATION]: worker 19 has left work
+[18:53][INFORMATION]: application 627 received
+[18:53][INFORMATION]: worker 11 started app 627
+[18:53][INFORMATION]: worker 11 finished app 627
+[18:55][INFORMATION]: application 629 received
+[18:55][INFORMATION]: worker 3 started app 629
+[18:55][INFORMATION]: worker 3 finished app 629
+[18:57][INFORMATION]: application 631 received
+[18:57][INFORMATION]: worker 13 started app 631
+[18:57][INFORMATION]: worker 13 finished app 631
+[18:59][INFORMATION]: application 633 received
+[18:59][INFORMATION]: worker 14 started app 633
+[18:59][INFORMATION]: worker 14 finished app 633
+[19:01][INFORMATION]: application 635 received
+[19:01][INFORMATION]: worker 1 started app 635
+[19:01][INFORMATION]: worker 1 finished app 635
+[19:03][INFORMATION]: application 637 received
+[19:03][INFORMATION]: worker 0 started app 637
+[19:03][INFORMATION]: worker 0 finished app 637
+[19:05][INFORMATION]: application 639 received
+[19:05][INFORMATION]: worker 8 started app 639
+[19:05][INFORMATION]: worker 8 finished app 639
+[19:07][INFORMATION]: application 641 received
+[19:07][INFORMATION]: worker 16 started app 641
+[19:07][INFORMATION]: worker 16 finished app 641
+[19:09][INFORMATION]: worker 1 has left work
+[19:09][INFORMATION]: application 643 received
+[19:09][INFORMATION]: worker 11 started app 643
+[19:09][INFORMATION]: worker 11 finished app 643
+[19:11][INFORMATION]: application 645 received
+[19:11][INFORMATION]: worker 3 started app 645
+[19:11][INFORMATION]: worker 3 finished app 645
+[19:13][INFORMATION]: application 647 received
+[19:13][INFORMATION]: worker 13 started app 647
+[19:13][INFORMATION]: worker 13 finished app 647
+[19:15][INFORMATION]: application 649 received
+[19:15][INFORMATION]: worker 14 started app 649
+[19:15][INFORMATION]: worker 14 finished app 649
+[19:17][INFORMATION]: application 651 received
+[19:17][INFORMATION]: worker 0 started app 651
+[19:17][INFORMATION]: worker 0 finished app 651
+[19:18][INFORMATION]: worker 3 has left work
+[19:19][INFORMATION]: application 653 received
+[19:19][INFORMATION]: worker 8 started app 653
+[19:19][INFORMATION]: worker 8 finished app 653
+[19:21][INFORMATION]: application 655 received
+[19:21][INFORMATION]: worker 16 started app 655
+[19:21][INFORMATION]: worker 16 finished app 655
+[19:23][INFORMATION]: application 657 received
+[19:23][INFORMATION]: worker 11 started app 657
+[19:23][INFORMATION]: worker 11 finished app 657
+[19:25][INFORMATION]: application 659 received
+[19:25][INFORMATION]: worker 13 started app 659
+[19:25][INFORMATION]: worker 13 finished app 659
+[19:26][INFORMATION]: worker 14 has left work
+[19:27][INFORMATION]: application 661 received
+[19:27][INFORMATION]: worker 0 started app 661
+[19:27][INFORMATION]: worker 0 finished app 661
+[19:29][INFORMATION]: application 663 received
+[19:29][INFORMATION]: worker 8 started app 663
+[19:29][INFORMATION]: worker 8 finished app 663
+[19:31][INFORMATION]: application 665 received
+[19:31][INFORMATION]: worker 16 started app 665
+[19:31][INFORMATION]: worker 16 finished app 665
+[19:33][INFORMATION]: application 667 received
+[19:33][INFORMATION]: worker 11 started app 667
+[19:33][INFORMATION]: worker 11 finished app 667
+[19:35][INFORMATION]: worker 16 has left work
+[19:35][INFORMATION]: application 669 received
+[19:35][INFORMATION]: worker 13 started app 669
+[19:35][INFORMATION]: worker 13 finished app 669
+[19:37][INFORMATION]: application 671 received
+[19:37][INFORMATION]: worker 0 started app 671
+[19:37][INFORMATION]: worker 0 finished app 671
+[19:39][INFORMATION]: application 673 received
+[19:39][INFORMATION]: worker 8 started app 673
+[19:39][INFORMATION]: worker 8 finished app 673
+[19:41][INFORMATION]: application 675 received
+[19:41][INFORMATION]: worker 11 started app 675
+[19:41][INFORMATION]: worker 11 finished app 675
+[19:43][INFORMATION]: application 677 received
+[19:43][INFORMATION]: worker 13 started app 677
+[19:43][INFORMATION]: worker 13 finished app 677
+[19:45][INFORMATION]: application 679 received
+[19:45][INFORMATION]: worker 0 started app 679
+[19:45][INFORMATION]: worker 0 finished app 679
+[19:47][INFORMATION]: application 681 received
+[19:47][INFORMATION]: worker 8 started app 681
+[19:47][INFORMATION]: worker 8 finished app 681
+[19:49][INFORMATION]: application 683 received
+[19:49][INFORMATION]: worker 11 started app 683
+[19:49][INFORMATION]: worker 11 finished app 683
+[19:51][INFORMATION]: application 685 received
+[19:51][INFORMATION]: worker 13 started app 685
+[19:51][INFORMATION]: worker 13 finished app 685
+[19:53][INFORMATION]: application 687 received
+[19:53][INFORMATION]: worker 0 started app 687
+[19:53][INFORMATION]: worker 0 finished app 687
+[19:55][INFORMATION]: application 689 received
+[19:55][INFORMATION]: worker 8 started app 689
+[19:55][INFORMATION]: worker 8 finished app 689
+[19:57][INFORMATION]: application 691 received
+[19:57][INFORMATION]: worker 11 started app 691
+[19:57][INFORMATION]: worker 11 finished app 691
+[19:59][INFORMATION]: application 693 received
+[19:59][INFORMATION]: worker 13 started app 693
+[19:59][INFORMATION]: worker 13 finished app 693
+[20:00][INFORMATION]: worker 0 has left work
+[20:01][INFORMATION]: application 695 received
+[20:01][INFORMATION]: worker 8 started app 695
+[20:01][INFORMATION]: worker 8 finished app 695
+[20:03][INFORMATION]: application 697 received
+[20:03][INFORMATION]: worker 11 started app 697
+[20:03][INFORMATION]: worker 11 finished app 697
+[20:05][INFORMATION]: application 699 received
+[20:05][INFORMATION]: worker 13 started app 699
+[20:05][INFORMATION]: worker 13 finished app 699
+[20:07][INFORMATION]: application 701 received
+[20:07][INFORMATION]: worker 8 started app 701
+[20:07][INFORMATION]: worker 8 finished app 701
+[20:09][INFORMATION]: worker 11 has left work
+[20:09][INFORMATION]: application 703 received
+[20:09][INFORMATION]: worker 13 started app 703
+[20:09][INFORMATION]: worker 13 finished app 703
+[20:11][INFORMATION]: application 705 received
+[20:11][INFORMATION]: worker 8 started app 705
+[20:11][INFORMATION]: worker 8 finished app 705
+[20:13][INFORMATION]: application 707 received
+[20:13][INFORMATION]: worker 13 started app 707
+[20:13][INFORMATION]: worker 13 finished app 707
+[20:15][INFORMATION]: application 709 received
+[20:15][INFORMATION]: worker 8 started app 709
+[20:15][INFORMATION]: worker 8 finished app 709
+[20:17][INFORMATION]: application 711 received
+[20:17][INFORMATION]: worker 13 started app 711
+[20:17][INFORMATION]: worker 13 finished app 711
+[20:18][INFORMATION]: worker 13 has left work
+[20:19][INFORMATION]: application 713 received
+[20:19][INFORMATION]: worker 8 started app 713
+[20:19][INFORMATION]: worker 8 finished app 713
+[20:21][INFORMATION]: application 715 received
+[20:21][INFORMATION]: worker 8 started app 715
+[20:21][INFORMATION]: worker 8 finished app 715
+[20:23][INFORMATION]: application 717 received
+[20:23][INFORMATION]: worker 8 started app 717
+[20:23][INFORMATION]: worker 8 finished app 717
+[20:25][INFORMATION]: application 719 received
+[20:25][INFORMATION]: worker 8 started app 719
+[20:25][INFORMATION]: worker 8 finished app 719
+[20:27][INFORMATION]: application 721 received
+[20:27][INFORMATION]: worker 8 started app 721
+[20:27][INFORMATION]: worker 8 finished app 721
+[20:29][INFORMATION]: application 723 received
+[20:29][INFORMATION]: worker 8 started app 723
+[20:29][INFORMATION]: worker 8 finished app 723
+[20:31][INFORMATION]: application 725 received
+[20:31][INFORMATION]: worker 8 started app 725
+[20:31][INFORMATION]: worker 8 finished app 725
+[20:33][INFORMATION]: application 727 received
+[20:33][INFORMATION]: worker 8 started app 727
+[20:33][INFORMATION]: worker 8 finished app 727
+[20:35][INFORMATION]: application 729 received
+[20:35][INFORMATION]: worker 8 started app 729
+[20:35][INFORMATION]: worker 8 finished app 729
+[20:37][INFORMATION]: application 731 received
+[20:37][INFORMATION]: worker 8 started app 731
+[20:37][INFORMATION]: worker 8 finished app 731
+[20:39][INFORMATION]: application 733 received
+[20:39][INFORMATION]: worker 8 started app 733
+[20:39][INFORMATION]: worker 8 finished app 733
+[20:41][INFORMATION]: application 735 received
+[20:41][INFORMATION]: worker 8 started app 735
+[20:41][INFORMATION]: worker 8 finished app 735
+[20:43][INFORMATION]: application 737 received
+[20:43][INFORMATION]: worker 8 started app 737
+[20:43][INFORMATION]: worker 8 finished app 737
+[20:45][INFORMATION]: application 739 received
+[20:45][INFORMATION]: worker 8 started app 739
+[20:45][INFORMATION]: worker 8 finished app 739
+[20:47][INFORMATION]: application 741 received
+[20:47][INFORMATION]: worker 8 started app 741
+[20:47][INFORMATION]: worker 8 finished app 741
+[20:49][INFORMATION]: application 743 received
+[20:49][INFORMATION]: worker 8 started app 743
+[20:49][INFORMATION]: worker 8 finished app 743
+[20:51][INFORMATION]: application 745 received
+[20:51][INFORMATION]: worker 8 started app 745
+[20:51][INFORMATION]: worker 8 finished app 745
+[20:52][INFORMATION]: worker 8 has left work
+[20:53][INFORMATION]: application 747 received
+[20:58][INFORMATION]: application 748 received
+[19:00][INFORMATION]: app 747 wasn't finished
+[19:00][INFORMATION]: app 748 wasn't finished
+[19:00][INFORMATION]: app 41 wasn't finished
+[19:00][INFORMATION]: app 9 wasn't finished
+[19:00][INFORMATION]: app 48 wasn't finished
+[19:00][INFORMATION]: app 26 wasn't finished
+[19:00][INFORMATION]: app 19 wasn't finished
+[19:00][INFORMATION]: app 88 wasn't finished
+[19:00][INFORMATION]: app 43 wasn't finished
+[19:00][INFORMATION]: app 36 wasn't finished
+[19:00][INFORMATION]: app 32 wasn't finished
+[19:00][INFORMATION]: app 8 wasn't finished
+[19:00][INFORMATION]: app 106 wasn't finished
+[19:00][INFORMATION]: app 31 wasn't finished
+[19:00][INFORMATION]: app 18 wasn't finished
+[19:00][INFORMATION]: app 14 wasn't finished
+[19:00][INFORMATION]: app 40 wasn't finished
+[19:00][INFORMATION]: app 12 wasn't finished
+[19:00][INFORMATION]: app 27 wasn't finished
+[19:00][INFORMATION]: app 28 wasn't finished
+[19:00][INFORMATION]: app 44 wasn't finished
+[19:00][INFORMATION]: app 20 wasn't finished
+[19:00][INFORMATION]: app 21 wasn't finished
+[19:00][INFORMATION]: app 6 wasn't finished
+[19:00][INFORMATION]: app 34 wasn't finished
+[19:00][INFORMATION]: app 23 wasn't finished
+[19:00][INFORMATION]: app 38 wasn't finished
+[19:00][INFORMATION]: app 42 wasn't finished
+[19:00][INFORMATION]: app 35 wasn't finished
+[19:00][INFORMATION]: app 47 wasn't finished
+[19:00][INFORMATION]: app 25 wasn't finished
+[19:00][INFORMATION]: app 4 wasn't finished
+[19:00][INFORMATION]: app 33 wasn't finished
+[19:00][INFORMATION]: app 50 wasn't finished
+[19:00][INFORMATION]: app 78 wasn't finished
+[19:00][INFORMATION]: app 95 wasn't finished
+[21:00][INFORMATION]: closed

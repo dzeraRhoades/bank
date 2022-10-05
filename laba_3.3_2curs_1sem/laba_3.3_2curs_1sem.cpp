@@ -1,6 +1,7 @@
 ﻿// отделения банка лаба 3.3
 #include <iostream>
 #include"BankBuilder.h"
+#include <filesystem>
 
 int main()
 {
@@ -8,6 +9,5 @@ int main()
     Bank* bank = builder.buildBank();
     bank->start();
     delete bank;
-    std::cout << "Hello World!\n";
 }
 

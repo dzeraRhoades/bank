@@ -1,29 +1,20 @@
 ﻿  Bank.cpp
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Cmp.h(19,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(31,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(75,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(77,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(93,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(95,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(164,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(175,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(225,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(261,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(410,18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(419,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\BinomialHeap.h(71,2): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\BinomialHeap.h(32): message : во время компиляции функции-члена класс шаблон "Heap<int,Bank::Application *> *BinomialHeap<int,Bank::Application *>::merge(Heap<int,Bank::Application *> *)"
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\BinomialHeap.h(177): message : выполняется компиляция ссылки на экземпляр шаблон функции "Heap<int,Bank::Application *> *BinomialHeap<int,Bank::Application *>::merge(Heap<int,Bank::Application *> *)"
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(285): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BinomialHeap<int,Bank::Application *>"
-  BankBuilder.cpp
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Cmp.h(19,21): warning C4018: <: несоответствие типов со знаком и без знака
-  BinomialHeap.cpp
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Cmp.h(19,21): warning C4018: <: несоответствие типов со знаком и без знака
-  HeapCreator.cpp
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Cmp.h(19,21): warning C4018: <: несоответствие типов со знаком и без знака
-  laba_3.3_2curs_1sem.cpp
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Cmp.h(19,21): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
-C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Cmp.h(47): warning C4715: CmpForInt::compare: значение возвращается не при всех путях выполнения
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\containers\heaps\Cmp.h(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(31,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(77,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(93,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(95,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(410,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(419,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\containers\heaps\BinomialHeap.h(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\containers\heaps\BinomialHeap.h(32): message : while compiling class template member function 'Heap<int,Bank::Application *> *BinomialHeap<int,Bank::Application *>::merge(Heap<int,Bank::Application *> *)'
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\containers\heaps\BinomialHeap.h(179): message : see reference to function template instantiation 'Heap<int,Bank::Application *> *BinomialHeap<int,Bank::Application *>::merge(Heap<int,Bank::Application *> *)' being compiled
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\Bank.cpp(285): message : see reference to class template instantiation 'BinomialHeap<int,Bank::Application *>' being compiled
+C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\laba_3.3_2curs_1sem\containers\heaps\Cmp.h(47): warning C4715: 'CmpForInt::compare': not all control paths return a value
   laba_3.3_2curs_1sem.vcxproj -> C:\Users\Влад\source\repos\laba_3.3_2curs_1sem\Debug\laba_3.3_2curs_1sem.exe

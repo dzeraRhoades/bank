@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -141,13 +142,13 @@
   <ItemGroup>
     <ClCompile Include="Bank.cpp" />
     <ClCompile Include="BankBuilder.cpp" />
-    <ClCompile Include="BinaryHeap.cpp" />
-    <ClCompile Include="BinomialHeap.cpp" />
-    <ClCompile Include="Cmp.cpp" />
-    <ClCompile Include="FibonacciHeap.cpp" />
-    <ClCompile Include="Heap.cpp" />
-    <ClCompile Include="HeapCreator.cpp" />
-    <ClCompile Include="HeapException.cpp" />
+    <ClCompile Include="containers\heaps\BinaryHeap.cpp" />
+    <ClCompile Include="containers\heaps\BinomialHeap.cpp" />
+    <ClCompile Include="containers\heaps\Cmp.cpp" />
+    <ClCompile Include="containers\heaps\FibonacciHeap.cpp" />
+    <ClCompile Include="containers\heaps\Heap.cpp" />
+    <ClCompile Include="containers\heaps\HeapCreator.cpp" />
+    <ClCompile Include="containers\heaps\HeapException.cpp" />
     <ClCompile Include="laba_3.3_2curs_1sem.cpp" />
     <ClCompile Include="logBuilder.cpp" />
     <ClCompile Include="Logger.cpp" />
@@ -156,13 +157,13 @@
   <ItemGroup>
     <ClInclude Include="Bank.h" />
     <ClInclude Include="BankBuilder.h" />
-    <ClInclude Include="BinaryHeap.h" />
-    <ClInclude Include="BinomialHeap.h" />
-    <ClInclude Include="Cmp.h" />
-    <ClInclude Include="FibonacciHeap.h" />
-    <ClInclude Include="Heap.h" />
-    <ClInclude Include="HeapCreator.h" />
-    <ClInclude Include="HeapException.h" />
+    <ClInclude Include="containers\heaps\BinaryHeap.h" />
+    <ClInclude Include="containers\heaps\BinomialHeap.h" />
+    <ClInclude Include="containers\heaps\Cmp.h" />
+    <ClInclude Include="containers\heaps\FibonacciHeap.h" />
+    <ClInclude Include="containers\heaps\Heap.h" />
+    <ClInclude Include="containers\heaps\HeapCreator.h" />
+    <ClInclude Include="containers\heaps\HeapException.h" />
     <ClInclude Include="logBuilder.h" />
     <ClInclude Include="Logger.h" />
     <ClInclude Include="Stream.h" />

@@ -1,7 +1,7 @@
 #include "Bank.h"
 #include<random>
 #include<string>
-#include"BinomialHeap.h"
+#include"containers/heaps/BinomialHeap.h"
 #include"logBuilder.h"
 #include<Windows.h>
 //#include<iostream>
@@ -66,7 +66,7 @@ void Bank::work_day()
 		}
 		dep->logger->log(INFORMATION, "closed", cur_time);
 	}
-	std::cout << "<<<<<<<<<<<<<<<<<<" << apps_count << std::endl;
+	//std::cout << "<<<<<<<<<<<<<<<<<<" << apps_count << std::endl;
 }
 void Bank::staff_come_to_work_and_go_home(int cur_time)
 {
@@ -145,7 +145,7 @@ void Bank::application_generator(int cur_time)
 			departments[app->dep_id]->unprocessed_apps_number++;
 			departments[app->dep_id]->logger->log(INFORMATION, "application " + std::to_string(app->app_id)+" received", cur_time);
 
-			std::cout << "application " + std::to_string(app->app_id) + " received " << app->dep_id << std::endl;
+			//std::cout << "application " + std::to_string(app->app_id) + " received " << app->dep_id << std::endl;
 		}
 		if (departments[app->dep_id]->unprocessed_apps_number > l && overloads_times <= lmax) // если необработанных заявок в отделении больше допустимого значение l
 		{
@@ -281,7 +281,7 @@ Bank::Department::Department(int k)
 	department_id++;
 	cmp = new CmpForInt;
 	logBuilder lg_bld;
-	logger = lg_bld.buildLog("logfile"+std::to_string(department_id)+".txt");
+	logger = lg_bld.buildLog("logs/logfile"+std::to_string(department_id)+".txt");
 	unprocessed_apps = new BinomialHeap<int, Application*>(cmp);
 	all_staff_num = k;
 	for (int i = 0; i < k; i++)

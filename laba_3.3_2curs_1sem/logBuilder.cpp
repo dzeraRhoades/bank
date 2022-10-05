@@ -2,6 +2,7 @@
 #include<regex>
 #include<map>
 #include<conio.h>
+#include <filesystem>
 
 //Logger* logBuilder::buildLog(const std::string& conf_file)
 //{
@@ -41,6 +42,7 @@ Logger* logBuilder::buildLog(const std::string& file_name)
     std::string buf;
     Logger* logger = new Logger;
     /*Stream* tmp = logger->streams_list;*/
+    std::filesystem::create_directory("logs");
     logger->streams_list = new Stream(INFORMATION, file_name);
     /*while (1)
     {
